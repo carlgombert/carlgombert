@@ -54,10 +54,6 @@ I'm currently a computer science student at the University of Minnesota and a fu
 [spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/hy52wq9drryrhl79tqbj0dr02?si=7bab914665dc4b7e
 
-[![Instagram][instagram-shield]][instagram-url]
-
-[instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/carlgombert_/
 <!--
 **carlgombert/carlgombert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
