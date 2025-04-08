@@ -1,17 +1,9 @@
 ## Hey! I'm Carl 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
-
-[gmail-shield]: https://img.shields.io/badge/Gmail-555?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:gombe004@umn.edu
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/cgombert/
 
 I'm currently a computer science student at the University of Minnesota and a full-stack developer. I'm also interested in computer graphics and machine learning. feel free to email me at gombe004@umn.edu or send me a connection request on linkedin. 
 * I'm currently working at **fAIshion.ai** as a software engineer intern
 * I'm currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js)
-* I would like to learn Rust
+* I would like to learn Rust and/or Go
 * Outside of programming I spend a lot of time doing Brazilian Jiu Jitsu, hiking, rock climbing and Muay Thai
 
 ### What I'm listening to:
@@ -50,10 +42,17 @@ I'm currently a computer science student at the University of Minnesota and a fu
 
 ### You can find me on:
 [![Spotify][spotify-shield]][spotify-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
 
 [spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/hy52wq9drryrhl79tqbj0dr02?si=7bab914665dc4b7e
 
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/your-profile/
+
+[instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://www.instagram.com/carlgombert_/
 <!--
 **carlgombert/carlgombert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
