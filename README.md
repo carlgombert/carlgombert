@@ -15,7 +15,7 @@ I'm currently a computer science student at the University of Minnesota and a fu
 * Outside of programming I spend a lot of time doing Brazilian Jiu Jitsu, hiking, rock climbing and Muay Thai
 
 ### What I'm listening to:
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hy52wq9drryrhl79tqbj0dr02&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hy52wq9drryrhl79tqbj0dr02&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ## Tech Stack 
 ### Languages 
