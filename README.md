@@ -43,16 +43,12 @@ I'm currently a computer science student at the University of Minnesota and a fu
 ### You can find me on:
 [![Spotify][spotify-shield]][spotify-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
 
 [spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
 [spotify-url]: https://open.spotify.com/user/hy52wq9drryrhl79tqbj0dr02?si=7bab914665dc4b7e
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/your-profile/
-
-[instagram-shield]: https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://www.instagram.com/carlgombert_/
 <!--
 **carlgombert/carlgombert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
