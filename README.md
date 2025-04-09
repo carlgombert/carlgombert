@@ -9,6 +9,18 @@ I'm currently a computer science student at the University of Minnesota and a fu
 ### What I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hy52wq9drryrhl79tqbj0dr02&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+### You can find me on:
+[![Spotify][spotify-shield]][spotify-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
+[spotify-url]: https://open.spotify.com/user/hy52wq9drryrhl79tqbj0dr02?si=7bab914665dc4b7e
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/your-profile/
+
+<br>
+
 ## Tech Stack 
 ### Languages 
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=)
@@ -38,17 +50,6 @@ I'm currently a computer science student at the University of Minnesota and a fu
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&labelColor=)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=)
 
-##
-
-### You can find me on:
-[![Spotify][spotify-shield]][spotify-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[spotify-shield]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white
-[spotify-url]: https://open.spotify.com/user/hy52wq9drryrhl79tqbj0dr02?si=7bab914665dc4b7e
-
-[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/your-profile/
 <!--
 **carlgombert/carlgombert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
