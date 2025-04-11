@@ -2,7 +2,7 @@
 
 I'm currently a computer science student at the University of Minnesota and a full-stack developer. I'm also interested in computer graphics and machine learning. feel free to email me at gombe004@umn.edu or send me a connection request on linkedin. 
 * I'm currently working at **fAIshion.ai** as a software engineer intern
-* I'm currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js)
+* I'm currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js) as well as Svelte
 * I would like to learn Rust and/or Go
 * Outside of programming I spend a lot of time doing Brazilian Jiu Jitsu, hiking, rock climbing and Muay Thai
 
