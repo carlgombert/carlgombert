@@ -3,7 +3,7 @@
 I'm currently a computer science student at the University of Minnesota and a full-stack developer. I'm also interested in computer graphics and machine learning. feel free to email me at gombe004@umn.edu or send me a connection request on linkedin. 
 * I'm currently working at **fAIshion.ai** as a software engineer intern
 * I'm currently learning the MERN stack (MongoDB, Express, React, Node)
-* I would like to learn Rust and/or Go
+* I would like to learn Go with Gin
 * Outside of programming I spend a lot of time doing Brazilian Jiu Jitsu, hiking, rock climbing and Muay Thai
 
 ### What I'm listening to:
@@ -49,18 +49,3 @@ I'm currently a computer science student at the University of Minnesota and a fu
 ![Insomnia](https://img.shields.io/badge/Insomnia-%235849BE.svg?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white&labelColor=)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=)
-
-<!--
-**carlgombert/carlgombert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
