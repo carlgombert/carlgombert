@@ -17,7 +17,7 @@ I'm currently a computer science student at the University of Minnesota and a fu
 [spotify-url]: https://open.spotify.com/user/hy52wq9drryrhl79tqbj0dr02?si=7bab914665dc4b7e
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/your-profile/
+[linkedin-url]: https://www.linkedin.com/in/cgombert/
 
 <br>
 
