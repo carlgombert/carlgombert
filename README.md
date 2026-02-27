@@ -1,6 +1,6 @@
 ## Hi, I’m Carl
 
-I'm currently a Computer Science student at the University of Minnesota and a full-stack developer. While my professional experience is primarily in web development, my academic focus is on Operating Systems, Computer Architecture, and Networking. 
+I'm currently a Computer Science student at the University of Minnesota and a full-stack developer. While my professional experience is primarily in web development, my academic focus is on Operating Systems, Computer Architecture, and Networking. Currently, I work part-time as a Full-Stack Development Intern at faishion.ai, where I build and optimize web applications.
 
 I’m actively seeking Software Engineering internship opportunities and open to collaborating on interesting projects. Outside of coding, I enjoy Brazilian Jiu-Jitsu, hiking, rock climbing, reading, and learning Portuguese. Feel free to email me at gombe004@umn.edu or send me a connection request on linkedin. 
 
