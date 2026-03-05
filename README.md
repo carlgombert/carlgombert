@@ -31,7 +31,7 @@ I’m actively seeking Software Engineering internship opportunities and open to
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=)
 
 ### Databases
-![SQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=)
+![PostgreSQL](https://img.shields.io/badge/SQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=)
 ![Neo4j](https://img.shields.io/badge/Neo4j-%230073A6.svg?style=for-the-badge&logo=neo4j&logoColor=white&labelColor=)
 
